@@ -1,0 +1,70 @@
+Manifest-Version: 1.0
+Class-Path: antlr4-runtime-4.5.3.jar antlr-2.7.7.jar antlr-runtime-3.4
+ .jar aopalliance-repackaged-2.4.0-b34.jar apache-log4j-extras-1.2.17.
+ jar arpack_combined_all-0.1.jar avro-1.7.6-cdh5.7.0.jar avro-ipc-1.7.
+ 6-cdh5.7.0.jar avro-mapred-1.7.6-cdh5.7.0-hadoop2.jar bonecp-0.7.1.RE
+ LEASE.jar breeze-macros_2.11-0.12.jar breeze_2.11-0.12.jar calcite-av
+ atica-1.2.0-incubating.jar calcite-core-1.2.0-incubating.jar calcite-
+ linq4j-1.2.0-incubating.jar chill-java-0.8.0.jar chill_2.11-0.8.0.jar
+  commons-cli-1.2.jar commons-codec-1.10.jar commons-collections-3.2.2
+ .jar commons-compiler-3.0.0.jar commons-compress-1.4.1.jar commons-cr
+ ypto-1.0.0.jar commons-dbcp-1.4.jar commons-httpclient-3.1.jar common
+ s-io-2.4.jar commons-lang3-3.5.jar commons-lang-2.6.jar commons-loggi
+ ng-1.1.3.jar commons-math3-3.4.1.jar commons-net-2.2.jar commons-pool
+ -1.5.4.jar compress-lzf-1.0.3.jar core-1.1.2.jar datanucleus-api-jdo-
+ 3.2.6.jar datanucleus-core-3.2.10.jar datanucleus-rdbms-3.2.9.jar der
+ by-10.11.1.1.jar eigenbase-properties-1.1.5.jar elasticsearch-hadoop-
+ 5.6.3.jar elasticsearch-hadoop-mr-5.6.3.jar fastjson-1.2.24.jar fastu
+ til-6.3.jar flume-ng-configuration-1.6.0-cdh5.7.0.jar flume-ng-core-1
+ .6.0-cdh5.7.0.jar flume-ng-sdk-1.6.0-cdh5.7.0.jar gson-2.2.4.jar hive
+ -metastore-1.1.0-cdh5.7.0.jar hive-serde-1.1.0-cdh5.7.0.jar hive-shim
+ s-0.23-1.1.0-cdh5.7.0.jar hive-shims-common-1.1.0-cdh5.7.0.jar hive-s
+ hims-scheduler-1.1.0-cdh5.7.0.jar hk2-api-2.4.0-b34.jar hk2-locator-2
+ .4.0-b34.jar hk2-utils-2.4.0-b34.jar httpcore-4.4.4.jar ivy-2.4.0.jar
+  jackson-annotations-2.6.5.jar jackson-core-2.6.5.jar jackson-databin
+ d-2.6.5.jar jackson-jaxrs-1.8.8.jar jackson-module-paranamer-2.6.5.ja
+ r jackson-module-scala_2.11-2.6.5.jar jackson-xc-1.8.8.jar janino-3.0
+ .0.jar JavaEWAH-0.3.2.jar javassist-3.18.1-GA.jar javax.annotation-ap
+ i-1.2.jar javax.inject-2.4.0-b34.jar javax.servlet-api-3.1.0.jar java
+ x.ws.rs-api-2.0.1.jar javolution-5.5.1.jar jcl-over-slf4j-1.7.5.jar j
+ do-api-3.0.1.jar jersey-client-2.22.2.jar jersey-common-2.22.2.jar je
+ rsey-container-servlet-2.22.2.jar jersey-container-servlet-core-2.22.
+ 2.jar jersey-guava-2.22.2.jar jersey-media-jaxb-2.22.2.jar jersey-ser
+ ver-2.22.2.jar jetty-6.1.26.cloudera.2.jar jetty-util-6.1.26.cloudera
+ .2.jar jline-2.12.1.jar joda-time-2.9.3.jar jodd-core-3.5.2.jar json4
+ s-ast_2.11-3.2.11.jar json4s-core_2.11-3.2.11.jar json4s-jackson_2.11
+ -3.2.11.jar json-20090211.jar jsoup-1.10.3.jar jta-1.1.jar jtransform
+ s-2.4.0.jar jul-to-slf4j-1.7.5.jar kryo-shaded-3.0.3.jar libfb303-0.9
+ .2.jar libthrift-0.9.2.jar logredactor-1.0.3.jar lz4-1.3.0.jar metric
+ s-core-3.1.2.jar metrics-graphite-3.1.2.jar metrics-json-3.1.2.jar me
+ trics-jvm-3.1.2.jar mina-core-2.0.0-M5.jar minlog-1.3.0.jar netty-3.8
+ .0.Final.jar netty-all-4.0.42.Final.jar objenesis-2.1.jar opencsv-2.3
+ .jar oro-2.0.8.jar osgi-resource-locator-1.0.1.jar paranamer-2.3.jar 
+ parquet-avro-1.5.0-cdh5.7.0.jar parquet-column-1.5.0-cdh5.7.0.jar par
+ quet-column-1.9.0.jar parquet-common-1.5.0-cdh5.7.0.jar parquet-commo
+ n-1.9.0.jar parquet-encoding-1.5.0-cdh5.7.0.jar parquet-encoding-1.9.
+ 0.jar parquet-format-2.1.0-cdh5.7.0.jar parquet-format-2.3.1.jar parq
+ uet-generator-1.7.0.jar parquet-hadoop-1.5.0-cdh5.7.0.jar parquet-had
+ oop-1.9.0.jar parquet-hadoop-bundle-1.5.0-cdh5.7.0.jar parquet-jackso
+ n-1.5.0-cdh5.7.0.jar parquet-jackson-1.9.0.jar pmml-model-1.2.15.jar 
+ pmml-schema-1.2.15.jar py4j-0.10.4.jar pyrolite-4.13.jar RoaringBitma
+ p-0.5.11.jar scala-compiler-2.11.8.jar scala-library-2.11.8.jar scala
+ -parser-combinators_2.11-1.0.4.jar scala-reflect-2.11.8.jar scala-xml
+ _2.11-1.0.2.jar scalap-2.11.8.jar shapeless_2.11-2.0.0.jar snappy-0.2
+ .jar spark-catalyst_2.11-2.1.0.cloudera1.jar spark-core_2.11-2.1.0.cl
+ oudera1.jar spark-graphx_2.11-2.1.0.cloudera1.jar spark-hive-exec_2.1
+ 1-2.1.0.cloudera1.jar spark-hive_2.11-2.1.0.cloudera1.jar spark-launc
+ her_2.11-2.1.0.cloudera1.jar spark-mllib-local_2.11-2.1.0.cloudera1.j
+ ar spark-mllib_2.11-2.1.0.cloudera1.jar spark-network-common_2.11-2.1
+ .0.cloudera1.jar spark-network-shuffle_2.11-2.1.0.cloudera1.jar spark
+ -repl_2.11-2.1.0.cloudera1.jar spark-sketch_2.11-2.1.0.cloudera1.jar 
+ spark-sql_2.11-2.1.0.cloudera1.jar spark-streaming-flume-sink_2.11-2.
+ 1.0.cloudera1.jar spark-streaming-flume_2.11-2.1.0.cloudera1.jar spar
+ k-streaming_2.11-2.1.0.cloudera1.jar spark-tags_2.11-2.1.0.cloudera1.
+ jar spark-unsafe_2.11-2.1.0.cloudera1.jar spark-yarn_2.11-2.1.0.cloud
+ era1.jar spire-macros_2.11-0.7.4.jar spire_2.11-0.7.4.jar ST4-4.0.4.j
+ ar stax-api-1.0.1.jar stream-2.7.0.jar stringtemplate-3.2.1.jar univo
+ city-parsers-2.2.1.jar validation-api-1.1.0.Final.jar xbean-asm5-shad
+ ed-4.4.jar xz-1.0.jar
+Main-Class: com.tk.es.SparkParquetToEs
+
